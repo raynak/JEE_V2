@@ -9,8 +9,9 @@ import javax.ejb.Stateless;
 import jpa.*;
 import java.util.*;
 /**
+ * Interface d'accees aux donnees
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 @Stateless
 public interface ItfDataAccess {

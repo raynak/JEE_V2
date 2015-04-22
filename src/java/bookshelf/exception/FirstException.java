@@ -6,8 +6,9 @@
 package bookshelf.exception;
 
 /**
+ * Custom exception.
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 import javax.ejb.ApplicationException;
 
