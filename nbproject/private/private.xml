@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/bookshelf/exception/FirstException.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/ShoppingcartitemsFacade.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/nbproject/build-impl.xml</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/setup/glassfish-resources.xml</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/Configuration/jndi.properties</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/ShoppingcartitemsFacadeRemote.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/UsersFacadeLocal.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/dataAccess/ItfDataAccessLocal.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/jpa/Books.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/UsersFacade.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/dataAccess/ItfDataAccessRemote.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/BooksFacadeRemote.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/dataAccess/ItfDataAccess.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/BooksFacadeLocal.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/dataAccess/DataAccesJPA.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/BooksFacade.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/AbstractFacade.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/ShoppingcartitemsFacadeLocal.java</file>
+            <file>file:/home/raynak/Universite/M1S2/CAR/JEE/BookShelfV2/src/java/ejb/UsersFacadeRemote.java</file>
+        </group>
+    </open-files>
+</project-private>
