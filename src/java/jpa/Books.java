@@ -22,7 +22,7 @@ import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 @Entity
 @Table(name = "BOOKS")

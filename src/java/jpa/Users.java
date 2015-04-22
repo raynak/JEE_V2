@@ -21,8 +21,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
 /**
- *
- * @author raynak
+ *@author Tanguy Marechal - Yassine Badache@author raynak
  */
 @Entity
 @Table(name = "USERS")

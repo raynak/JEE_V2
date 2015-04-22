@@ -11,7 +11,7 @@ import jpa.Users;
 
 /**
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 @Remote
 public interface UsersFacadeRemote {

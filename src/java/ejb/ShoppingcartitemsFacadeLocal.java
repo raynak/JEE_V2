@@ -11,7 +11,7 @@ import jpa.Shoppingcartitems;
 
 /**
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 @Local
 public interface ShoppingcartitemsFacadeLocal {

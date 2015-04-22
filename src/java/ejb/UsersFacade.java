@@ -12,7 +12,7 @@ import jpa.Users;
 
 /**
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 @Stateless
 public class UsersFacade extends AbstractFacade<Users> implements UsersFacadeLocal, ejb.UsersFacadeRemote {

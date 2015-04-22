@@ -12,7 +12,7 @@ import jpa.Books;
 
 /**
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 @Stateless
 public class BooksFacade extends AbstractFacade<Books> implements BooksFacadeLocal, BooksFacadeRemote {

@@ -11,7 +11,7 @@ import jpa.Books;
 
 /**
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 @Local
 public interface BooksFacadeLocal {

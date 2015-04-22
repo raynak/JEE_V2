@@ -11,8 +11,7 @@ import javax.persistence.PersistenceContext;
 import jpa.Shoppingcartitems;
 
 /**
- *
- * @author raynak
+ *@author Tanguy Marechal - Yassine Badache@author raynak
  */
 @Stateless
 public class ShoppingcartitemsFacade extends AbstractFacade<Shoppingcartitems> implements ShoppingcartitemsFacadeLocal, ejb.ShoppingcartitemsFacadeRemote {

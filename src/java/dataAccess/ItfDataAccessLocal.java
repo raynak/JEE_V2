@@ -9,7 +9,7 @@ import javax.ejb.Local;
 
 /**
  *
- * @author raynak
+ * @author Tanguy Marechal - Yassine Badache
  */
 @Local
 public interface ItfDataAccessLocal extends ItfDataAccess {
